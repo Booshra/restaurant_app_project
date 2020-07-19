@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246626522430",
+    "firebase_url": "https://androidkhabo.firebaseio.com",
+    "project_id": "androidkhabo",
+    "storage_bucket": "androidkhabo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246626522430:android:932e90b2c723101f",
+        "android_client_info": {
+          "package_name": "com.booshra.khabo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246626522430-54gr2jod0msjsgh76iqpspmisa5sa090.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booshra.khabo",
+            "certificate_hash": "6cefd13d21992598e96fcf4e901d06f819832aaf"
+          }
+        },
+        {
+          "client_id": "246626522430-9tu1be39i9894sldui7j5nst6kioo2fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5U1NBxLIYD_ZYwX_vi9cz3NYI75b9UN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246626522430-9tu1be39i9894sldui7j5nst6kioo2fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
